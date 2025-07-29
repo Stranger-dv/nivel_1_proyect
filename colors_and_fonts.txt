@@ -1,0 +1,9 @@
+Naranja apagado: #c5975d
+Naranja pastel apagado: #d0c3b3
+Blanco: #ffffff
+#37383a
+fonts
+
+Roboto
+Montserrat
+Anaphora
